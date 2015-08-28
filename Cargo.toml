@@ -1,0 +1,4 @@
+[package]
+name = "checkers-engine"
+version = "0.1.0"
+authors = ["Axel Magnuson <axelmagn@gmail.com>"]
